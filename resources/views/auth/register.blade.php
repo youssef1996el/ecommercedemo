@@ -27,7 +27,7 @@
                 </ul>
                 <div class="navbar-logo">
                     <a href="{{url('/')}}">
-                        <img src="https://bshopen.themeposh.net/public/media/06082021041108-200x200-logo.png" alt="logo">
+                        <img src="https://static.vecteezy.com/ti/vecteur-libre/t2/2427590-logo-boutique-avec-un-sac-shopping-sur-fond-blanc-gratuit-vectoriel.jpg" alt="logo">
                     </a>
                 </div>
                 <div class="header-search">
