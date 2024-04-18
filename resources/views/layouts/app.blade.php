@@ -52,14 +52,22 @@
 	</head>
     <body>
         <!-- js -->
-        <script src="{{asset('js/jquery-3.6.0.min.js')}}"></script>
+       {{--  <script src="{{asset('js/jquery-3.6.0.min.js')}}"></script>
         <script src="{{asset('js/popper.min.js')}}"></script>
         <script src="{{asset('js/bootstrap.min.js')}}"></script>
         <script src="{{asset('js/scrolltop.js')}}"></script>
         <script src="{{asset('js/jquery.nicescroll.min.js')}}"></script>
         <script src="{{asset('js/owl.carousel.min.js')}}"></script>
         <script src="{{asset('js/jquery.popupoverlay.min.js')}}"></script>
-        <script src="{{asset('js/jquery.gritter.min.js')}}"></script>
+        <script src="{{asset('js/jquery.gritter.min.js')}}"></script> --}}
+        <script src="https://bshopen.themeposh.net/public/frontend/js/jquery-3.6.0.min.js"></script>
+	<script src="https://bshopen.themeposh.net/public/frontend/js/popper.min.js"></script>
+	<script src="https://bshopen.themeposh.net/public/frontend/js/bootstrap.min.js"></script>
+	<script src="https://bshopen.themeposh.net/public/frontend/js/scrolltop.js"></script>
+	<script src="https://bshopen.themeposh.net/public/frontend/js/jquery.nicescroll.min.js"></script>
+	<script src="https://bshopen.themeposh.net/public/frontend/js/owl.carousel.min.js"></script>
+	<script src="https://bshopen.themeposh.net/public/frontend/js/jquery.popupoverlay.min.js"></script>
+	<script src="https://bshopen.themeposh.net/public/frontend/js/jquery.gritter.min.js"></script>
 
         <script>
             var is_rtl = "0";
