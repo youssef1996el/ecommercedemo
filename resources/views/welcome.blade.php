@@ -565,8 +565,8 @@
                                     <li><span class="tplabel" style="background:#f0983d;">HOT</span></li>
                                 </ul>
                                 <ul class="product-action">
-                                    <li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
-                                    <li><a href="#"><i class="fa-solid fa-magnifying-glass-plus"></i></a></li>
+                                    <li><a href="{{ url('DetailProduct/' . $item->id) }}"><i class="fa-solid fa-cart-shopping"></i></a></li>
+                                    <li><a href="{{ url('DetailProduct/' . $item->id) }}"><i class="fa-solid fa-magnifying-glass-plus"></i></a></li>
                                     <li><a class="addtowishlist" data-id="{{$item->id}}" href="javascript:void(0);"><i class="fa-solid fa-heart"></i></a></li>
                                 </ul>
                                 <ul class="color-list">
