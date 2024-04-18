@@ -19,7 +19,7 @@
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
 
-            <link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet">
+           {{--  <link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet">
             <style type="text/css">
                 :root {
                 --theme-color: #c62f2f;
@@ -30,7 +30,20 @@
             <link rel="stylesheet" href="{{asset('css/owl.carousel.min.css')}}">
             <link rel="stylesheet" href="{{asset('css/jquery.gritter.min.css')}}">
             <link rel="stylesheet" href="{{asset('css/style.css')}}">
-            <link rel="stylesheet" href="{{asset('css/responsive.css')}}">
+            <link rel="stylesheet" href="{{asset('css/responsive.css')}}"> --}}
+            <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+		<link href="https://bshopen.themeposh.net/public/frontend/css/bootstrap.min.css" rel="stylesheet">
+		<style type="text/css">
+	:root {
+	  --theme-color: #c62f2f;
+	  --menu-background-color: #2d3748;
+	}
+	</style>
+	<link href="https://bshopen.themeposh.net/public/frontend/css/bootstrap-icons.css" rel="stylesheet">
+	<link href="https://bshopen.themeposh.net/public/frontend/css/owl.carousel.min.css" rel="stylesheet">
+	<link href="https://bshopen.themeposh.net/public/frontend/css/jquery.gritter.min.css" rel="stylesheet">
+	<link href="https://bshopen.themeposh.net/public/frontend/css/style.css" rel="stylesheet">
+	<link href="https://bshopen.themeposh.net/public/frontend/css/responsive.css" rel="stylesheet">
 
 
 
