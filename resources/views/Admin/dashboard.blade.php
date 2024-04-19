@@ -7,7 +7,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!--favicon-->
-	<link rel="icon" href="assets/images/favicon-32x32.png" type="image/png"/>
+	<link rel="icon" href="" type="image/png"/>
 	<!--plugins-->
     <link rel="stylesheet" href="{{asset('Dashboard_CSS/css/jquery-jvectormap-2.0.2.css')}}">
     <link rel="stylesheet" href="{{asset('Dashboard_CSS/css/simplebar.css')}}">
@@ -124,24 +124,24 @@
 								</a>
 							</li>
 							<li class="nav-item dropdown dropdown-laungauge d-none d-sm-flex">
-								<a class="nav-link dropdown-toggle dropdown-toggle-nocaret" href="avascript:;" data-bs-toggle="dropdown"><img src="assets/images/county/02.png" width="22" alt="">
+								<a class="nav-link dropdown-toggle dropdown-toggle-nocaret" href="avascript:;" data-bs-toggle="dropdown"><img src="" width="22" alt="">
 								</a>
 								<ul class="dropdown-menu dropdown-menu-end">
-									<li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img src="assets/images/county/01.png" width="20" alt=""><span class="ms-2">English</span></a>
+									<li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img src="" width="20" alt=""><span class="ms-2">English</span></a>
 									</li>
-									<li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img src="assets/images/county/02.png" width="20" alt=""><span class="ms-2">Catalan</span></a>
+									<li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img src="" width="20" alt=""><span class="ms-2">Catalan</span></a>
 									</li>
-									<li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img src="assets/images/county/03.png" width="20" alt=""><span class="ms-2">French</span></a>
+									<li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img src="" width="20" alt=""><span class="ms-2">French</span></a>
 									</li>
-									<li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img src="assets/images/county/04.png" width="20" alt=""><span class="ms-2">Belize</span></a>
+									<li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img src="" width="20" alt=""><span class="ms-2">Belize</span></a>
 									</li>
-									<li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img src="assets/images/county/05.png" width="20" alt=""><span class="ms-2">Colombia</span></a>
+									<li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img src="" width="20" alt=""><span class="ms-2">Colombia</span></a>
 									</li>
-									<li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img src="assets/images/county/06.png" width="20" alt=""><span class="ms-2">Spanish</span></a>
+									<li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img src="" width="20" alt=""><span class="ms-2">Spanish</span></a>
 									</li>
-									<li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img src="assets/images/county/07.png" width="20" alt=""><span class="ms-2">Georgian</span></a>
+									<li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img src="" width="20" alt=""><span class="ms-2">Georgian</span></a>
 									</li>
-									<li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img src="assets/images/county/08.png" width="20" alt=""><span class="ms-2">Hindi</span></a>
+									<li><a class="dropdown-item d-flex align-items-center py-2" href="javascript:;"><img src="" width="20" alt=""><span class="ms-2">Hindi</span></a>
 									</li>
 								</ul>
 							</li>
@@ -164,7 +164,7 @@
 										<a class="dropdown-item" href="javascript:;">
 											<div class="d-flex align-items-center">
 												<div class="user-online">
-													<img src="assets/images/avatars/avatar-1.png" class="msg-avatar" alt="user avatar">
+													<img src="" class="msg-avatar" alt="user avatar">
 												</div>
 												<div class="flex-grow-1">
 													<h6 class="msg-name">Daisy Anderson<span class="msg-time float-end">5 sec
@@ -187,7 +187,7 @@
 										<a class="dropdown-item" href="javascript:;">
 											<div class="d-flex align-items-center">
 												<div class="user-online">
-													{{-- <img src="assets/images/avatars/avatar-2.png" class="msg-avatar" alt="user avatar"> --}}
+													{{-- <img src="" class="msg-avatar" alt="user avatar"> --}}
 												</div>
 												<div class="flex-grow-1">
 													<h6 class="msg-name">Althea Cabardo <span class="msg-time float-end">14
@@ -199,7 +199,7 @@
 										<a class="dropdown-item" href="javascript:;">
 											<div class="d-flex align-items-center">
 												<div class="notify bg-light-success text-success">
-													<img src="assets/images/app/outlook.png" width="25" alt="user avatar">
+													<img src="" width="25" alt="user avatar">
 												</div>
 												<div class="flex-grow-1">
 													<h6 class="msg-name">Account Created<span class="msg-time float-end">28 min
@@ -222,7 +222,7 @@
 										<a class="dropdown-item" href="javascript:;">
 											<div class="d-flex align-items-center">
 												<div class="user-online">
-													<img src="assets/images/avatars/avatar-4.png" class="msg-avatar" alt="user avatar">
+													<img src="" class="msg-avatar" alt="user avatar">
 												</div>
 												<div class="flex-grow-1">
 													<h6 class="msg-name">Katherine Pechon <span class="msg-time float-end">15
@@ -245,7 +245,7 @@
 										<a class="dropdown-item" href="javascript:;">
 											<div class="d-flex align-items-center">
 												<div class="notify bg-light-primary">
-													<img src="assets/images/app/github.png" width="25" alt="user avatar">
+													<img src="" width="25" alt="user avatar">
 												</div>
 												<div class="flex-grow-1">
 													<h6 class="msg-name">New 24 authors<span class="msg-time float-end">1 day
@@ -257,7 +257,7 @@
 										<a class="dropdown-item" href="javascript:;">
 											<div class="d-flex align-items-center">
 												<div class="user-online">
-													<img src="assets/images/avatars/avatar-8.png" class="msg-avatar" alt="user avatar">
+													<img src="" class="msg-avatar" alt="user avatar">
 												</div>
 												<div class="flex-grow-1">
 													<h6 class="msg-name">Peter Costanzo <span class="msg-time float-end">6 hrs
@@ -308,7 +308,7 @@
 											<div class="d-flex align-items-center gap-3">
 												<div class="position-relative">
 													<div class="cart-product rounded-circle bg-light">
-														<img src="ducts/02.png" class="" alt="product image">
+														<img src="" class="" alt="product image">
 													</div>
 												</div>
 												<div class="flex-grow-1">
@@ -326,7 +326,7 @@
 											<div class="d-flex align-items-center gap-3">
 												<div class="position-relative">
 													<div class="cart-product rounded-circle bg-light">
-														<img src="ducts/03.png" class="" alt="product image">
+														<img src="" class="" alt="product image">
 													</div>
 												</div>
 												<div class="flex-grow-1">
@@ -344,7 +344,7 @@
 											<div class="d-flex align-items-center gap-3">
 												<div class="position-relative">
 													<div class="cart-product rounded-circle bg-light">
-														<img src="ducts/04.png" class="" alt="product image">
+														<img src="" class="" alt="product image">
 													</div>
 												</div>
 												<div class="flex-grow-1">
@@ -362,7 +362,7 @@
 											<div class="d-flex align-items-center gap-3">
 												<div class="position-relative">
 													<div class="cart-product rounded-circle bg-light">
-														<img src="ducts/05.png" class="" alt="product image">
+														<img src="" class="" alt="product image">
 													</div>
 												</div>
 												<div class="flex-grow-1">
@@ -380,7 +380,7 @@
 											<div class="d-flex align-items-center gap-3">
 												<div class="position-relative">
 													<div class="cart-product rounded-circle bg-light">
-														<img src="ducts/06.png" class="" alt="product image">
+														<img src="" class="" alt="product image">
 													</div>
 												</div>
 												<div class="flex-grow-1">
@@ -398,7 +398,7 @@
 											<div class="d-flex align-items-center gap-3">
 												<div class="position-relative">
 													<div class="cart-product rounded-circle bg-light">
-														<img src="ducts/07.png" class="" alt="product image">
+														<img src="" class="" alt="product image">
 													</div>
 												</div>
 												<div class="flex-grow-1">
@@ -416,7 +416,7 @@
 											<div class="d-flex align-items-center gap-3">
 												<div class="position-relative">
 													<div class="cart-product rounded-circle bg-light">
-														<img src="ducts/08.png" class="" alt="product image">
+														<img src="" class="" alt="product image">
 													</div>
 												</div>
 												<div class="flex-grow-1">
@@ -434,7 +434,7 @@
 											<div class="d-flex align-items-center gap-3">
 												<div class="position-relative">
 													<div class="cart-product rounded-circle bg-light">
-														<img src="ducts/09.png" class="" alt="product image">
+														<img src="" class="" alt="product image">
 													</div>
 												</div>
 												<div class="flex-grow-1">
@@ -464,7 +464,7 @@
 					</div>
 					<div class="user-box dropdown px-3">
 						<a class="d-flex align-items-center nav-link dropdown-toggle gap-3 dropdown-toggle-nocaret" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-							{{-- <img src="assets/images/avatars/avatar-2.png" class="user-img" alt="user avatar"> --}}
+							{{-- <img src="" class="user-img" alt="user avatar"> --}}
 							<div class="user-info">
 								<p class="user-name mb-0"></p>
 								<p class="designattion mb-0">Web Designer</p>
